@@ -6,5 +6,5 @@ This project was divided into four stages, each of which built on the functional
 
 - [x] Create Static Components
 - [x] Pass Information to Components
-- [ ] Set the State of Ravenous Components
+- [x] Set the State of Ravenous Components
 - [ ] Interact with the Yelp API
