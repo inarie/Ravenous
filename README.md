@@ -1,4 +1,4 @@
-# Ravenous
+# Ravenous :fork_and_knife:
 
 Codecademy featured a guided project in which we were instructed to develop a Yelp-like clone called "Ravenous". The requirements were to use React to create a user interface for the site that would allow users to search for and browse a list of restaurants returned by the Yelp API, as well as filter and sort the restaurants.
 
