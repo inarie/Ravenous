@@ -5,6 +5,6 @@ Codecademy featured a guided project in which we were instructed to develop a Ye
 This project was divided into four stages, each of which built on the functionality that had previously been implemented:
 
 - [x] Create Static Components
-- [ ] Pass Information to Components
+- [x] Pass Information to Components
 - [ ] Set the State of Ravenous Components
 - [ ] Interact with the Yelp API
